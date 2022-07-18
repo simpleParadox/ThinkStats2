@@ -1,0 +1,1 @@
+Use the RE_656 conda environment to run the code as it has all the correct versions of the python packages installed.
